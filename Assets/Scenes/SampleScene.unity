@@ -494,7 +494,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 230743863}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2026635908}
+        m_TargetAssemblyTypeName: UIAnimation, Assembly-CSharp
+        m_MethodName: Fade
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &230743863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -863,7 +875,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 329371591}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2026635908}
+        m_TargetAssemblyTypeName: UIAnimation, Assembly-CSharp
+        m_MethodName: VerticalFlip
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &329371591
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2064,7 +2088,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 867553600}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2026635908}
+        m_TargetAssemblyTypeName: UIAnimation, Assembly-CSharp
+        m_MethodName: Scale
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &867553600
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2869,7 +2905,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1724100229}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2026635908}
+        m_TargetAssemblyTypeName: UIAnimation, Assembly-CSharp
+        m_MethodName: FlyDown
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1724100229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3328,7 +3376,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1934724347}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2026635908}
+        m_TargetAssemblyTypeName: UIAnimation, Assembly-CSharp
+        m_MethodName: HorizontalFlip
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1934724347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3396,6 +3456,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e186b15da4f5ccf46a983b8cf03c5108, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Amelie: {fileID: 826830421}
+  AmelieFear: {fileID: 1127611575}
+  AmelieShock: {fileID: 1852022161}
+  AmelieDizzy: {fileID: 1546156315}
+  AmelieHappy: {fileID: 766055433}
+  AmelieChat: {fileID: 650941028}
+  Chat_Update: Hey there, what are we gonna do today?
 --- !u!4 &2026635909
 Transform:
   m_ObjectHideFlags: 0
@@ -3766,7 +3833,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2132978676}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2026635908}
+        m_TargetAssemblyTypeName: UIAnimation, Assembly-CSharp
+        m_MethodName: SwingUp
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2132978676
 MonoBehaviour:
   m_ObjectHideFlags: 0
